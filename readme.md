@@ -11,9 +11,7 @@ But I kept getting frustrated that I couldn't add the shift modifier to use the 
 
 # Installation
 
-*Pending approval to Sublime Package Control*
-
-Until then use package control to add this repo: `git@github.com:natew/ExpandSelectionByParagraph.git`
+*Add using Sublime Package Control*
 
 
 # Keyboard Shortcuts
