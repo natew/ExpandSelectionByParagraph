@@ -16,8 +16,10 @@ But I kept getting frustrated that I couldn't add the shift modifier to use the 
 
 # Keyboard Shortcuts
 
+Now, to use this plugin just add something like this:
+
 ```
     // Select by paragraph
-    { "keys": ["alt+shift+down"], "command": "expand_selection_forward_paragraph" },
-    { "keys": ["alt+shift+up"], "command": "expand_selection_backward_paragraph" }
+    { "keys": ["alt+shift+down"], "command": "expand_selection_by_paragraph_down" },
+    { "keys": ["alt+shift+up"], "command": "expand_selection_by_paragraph_up" }
 ```
