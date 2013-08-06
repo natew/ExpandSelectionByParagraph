@@ -1,4 +1,4 @@
-![Demo](http://https://raw.github.com/natew/ExpandSelectionByParagraph/master/demo.gif)
+![Demo](https://raw.github.com/natew/ExpandSelectionByParagraph/master/demo.gif)
 
 Select text blocks by paragraphs in Sublime.  Supports version 2 and 3.
 
