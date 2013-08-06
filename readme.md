@@ -1,3 +1,8 @@
+![Demo](http://https://raw.github.com/natew/ExpandSelectionByParagraph/master/ressources/demo.git)
+
+Select text blocks by paragraphs in Sublime.  Supports version 2 and 3.
+
+
 # About
 Being used to vims paragraph navigation using Shift+[ and Shift+] I had found an equivalent for Sublime:
 
@@ -6,17 +11,14 @@ Being used to vims paragraph navigation using Shift+[ and Shift+] I had found an
     { "keys": ["alt+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false} },
 ```
 
-But I kept getting frustrated that I couldn't add the shift modifier to use the same command to select blocks of text by paragraph.  This plugin does just that, allows you to select text in blocks of paragraphs.
+But I kept getting frustrated that I couldn't add the shift modifier to select blocks of text by paragraph, thus this plugin.
 
 
 # Installation
 
-*Add using Sublime Package Control*
+Add using Sublime Package Control. Or, git clone this repo into your sublime Packages Directory.
 
-
-# Keyboard Shortcuts
-
-Now, to use this plugin just add something like this:
+To set up shortcuts, just add something like this:
 
 ```
     // Select by paragraph
